@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "vEpps19hqy4UaPkeVcE/j47Q9wmIE51gpAKoKn8t+zDkcbR8R3IWtxp+qMJ+DgWE9pV1xWNR48TewrAASp9Rtg==",
+  "dgSpecHash": "UNR8Ol7SjcOrIyvTUq1pch9J3r2WhnF0TzqQCJak9eDW3Z2PwnCQelO+FueFzbTVs0x3NsX8SNeyhq4uxso8Cg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\PersonalProjectBookLibraryApi\\PersonalProjectBookLibraryApi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\hp\\OneDrive - Decagon Institute\\Desktop\\personalbooklibrary\\API\\PersonalProjectBookLibraryApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.0\\microsoft.identitymodel.jsonwebtokens.6.15.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.identitymodel.logging\\6.15.0\\microsoft.identitymodel.logging.6.15.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.0\\microsoft.identitymodel.tokens.6.15.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.0\\system.identitymodel.tokens.jwt.6.15.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
